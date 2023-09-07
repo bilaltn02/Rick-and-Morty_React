@@ -1,0 +1,8 @@
+.link{
+  text-decoration: none;
+  font-size: .75rem;
+  color:gray;
+}
+.link:hover{
+  color:rgba(13, 109, 253, 0.782);
+}
